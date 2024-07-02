@@ -47,6 +47,7 @@ Ele demonstra vários aspectos da programação Python, incluindo:
 - Monitoramento de Transações em detecção de atividades suspeitas, alertas em tempo real, bloqueio preventivo de transações fraudulentas
 
 
+
 # Licença
 
 Este projeto é licenciado sob a Apache License 2.0, para mais informações, consulte o `LICENSE`arquivo.
